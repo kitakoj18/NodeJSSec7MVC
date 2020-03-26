@@ -1,0 +1,1 @@
+This repository contains the code along and assignments I completed for Section 7 of the Udemy course, [NodeJS - The Complete Guide](https://www.udemy.com/course/nodejs-the-complete-guide/), which covers how to implement and break out files with the Model View Controllers method. 
